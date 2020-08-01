@@ -1,3 +1,5 @@
-# blog
+## Hope you would like my blogs
 
-## good bye
+[Secret to happy life](https://prachiyadav31.github.io/blog/happiness/)
+
+
